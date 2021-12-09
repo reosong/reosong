@@ -9,7 +9,11 @@
 
 
 
-
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/java-red?style=flat&logo=java&logoColor=007396"/></a>
-
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<p>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/java-red?style=flat-square&logo=java&logoColor=007396"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/mysql-green?style=flat-square&logo=MySQL&logoColor=007396"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/oracle-blue?style=flat-square&logo=Oracle&logoColor=007396"/></a>
+  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/html-pink?style=flat-square&logo=HTML5&logoColor=007396"/></a>
+  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=javaScript&logoColor=007396"/></a>
+  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/jQeury-blue?style=flat-square&logo=jQeury&logoColor=007396"/></a>
+</p>
