@@ -25,4 +25,5 @@ my site
     <img src="https://img.shields.io/badge/블로그-green?style=for-the-badge&logo=n&logoColor=007396"/></a>
   
   </p>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reosong&show_icons=true&theme=radical)
+  
+(https://github-readme-stats.vercel.app/api?username=reosong&show_icons=true&theme=radical)
