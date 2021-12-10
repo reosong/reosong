@@ -6,15 +6,15 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=youngseoSong&fontSize=90)
 
 
-Let' me introduce😊
+Let me introduce😊
 
 my computer
 <p>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/ios-gray?style=for-the-badge&logo=apple&logoColor=007396"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/MAC-gray?style=for-the-badge&logo=apple&logoColor=007396"/></a>
 </p>
 
 
-learn to
+learning
 <p>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/java-red?style=flat-square&logo=java&logoColor=007396"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/mysql-green?style=flat-square&logo=MySQL&logoColor=007396"/></a>
