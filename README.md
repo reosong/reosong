@@ -3,12 +3,15 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=youngseoSong&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=blue&height=200&section=header&text=youngseoSong&fontSize=90)
 
 
 Let' me introduce😊
 
+my computer
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/ios-gray?style=flat-square&logo=apple&logoColor=007396"/></a>
 
+learn
 <p>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/java-red?style=flat-square&logo=java&logoColor=007396"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/mysql-green?style=flat-square&logo=MySQL&logoColor=007396"/></a>
@@ -22,7 +25,7 @@ Let' me introduce😊
 my blog
 <p>
   <a href="https://blog.naver.com/ambition_1018" target="_blank">
-    <img src="https://img.shields.io/badge/블로그-green?style=for-the-badge&logo=n&logoColor=007396"/></a>
+    <img src="https://img.shields.io/badge/blog-green?style=for-the-badge&logo=n&logoColor=007396"/></a>
   
   </p>
   
