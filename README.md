@@ -8,10 +8,6 @@
 
 Let me introduce😊
 
-my computer
-<p>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/MAC-gray?style=for-the-badge&logo=apple&logoColor=007396"/></a>
-</p>
 
 
 learning
@@ -20,8 +16,6 @@ learning
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/mysql-green?style=flat-square&logo=MySQL&logoColor=007396"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/oracle-blue?style=flat-square&logo=Oracle&logoColor=007396"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/html-pink?style=flat-square&logo=HTML5&logoColor=007396"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=javaScript&logoColor=007396"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/jQeury-blue?style=flat-square&logo=jQuery&logoColor=007396"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/JSP-red?style=flat-square&logo=oracle&logoColor=007396"/></a>
 </p>
 
