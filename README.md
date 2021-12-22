@@ -3,7 +3,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=내일=오늘+어제;&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=tomorrow=yesterday+today;&fontSize=90)
 
 
 Let me introduce😊
