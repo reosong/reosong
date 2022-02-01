@@ -18,6 +18,8 @@ learning
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/html-pink?style=flat-square&logo=HTML5&logoColor=007396"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/JSP-red?style=flat-square&logo=oracle&logoColor=007396"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/SPRING-green?style=flat-square&logo=spring&logoColor=007396"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JPA-blue?style=flat-square&logo=JPA&logoColor=007396"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Thymeleaf-pink?style=flat-square&logo=thymeleaf&logoColor=007396"/></a>
 </p>
 
 my blog
