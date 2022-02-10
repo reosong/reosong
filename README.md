@@ -22,12 +22,7 @@ learning
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Thymeleaf-pink?style=flat-square&logo=thymeleaf&logoColor=007396"/></a>
 </p>
 
-my blog
-<p>
-  <a href="https://blog.naver.com/ambition_1018" target="_blank">
-    <img src="https://img.shields.io/badge/blog-green?style=for-the-badge&logo=n&logoColor=007396"/></a>
-  
-  </p>
+
   
   <p>
   my grade
